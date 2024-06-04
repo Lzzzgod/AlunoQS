@@ -21,3 +21,7 @@ b. Stage Area (Index): Área de preparação onde as mudanças são organizadas 
 c. Local Repository: Repositório no seu computador contendo o histórico completo de commits.
 d. Remote Repository: Repositório hospedado em um servidor remoto, usado para colaboração.
 
+Exercício 01.txt;
+Exercício 02.txt;
+Exercício 03.txt;
+
